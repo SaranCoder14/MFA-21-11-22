@@ -1,0 +1,91 @@
+.all{
+
+    background-color:lightgrey;
+}
+header img{
+
+    width: 200px;
+    margin-top:10px;
+}
+header h4{
+    font-size:20px;
+    display: inline-block;
+    padding-right: 40px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+
+header button{
+    height: 50px;
+    border-radius: 5px;
+    margin-left: 20px;
+    font-size:20px;
+}
+
+.container{
+
+    display: flex;
+    justify-content:space-around;
+}
+
+
+button{
+
+    background-color:darkslateblue;
+    color: white;
+    font-size: 20px;
+}
+.main{
+
+    display: flex;
+    justify-content:space-around;
+    
+}
+h3{
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border:2px;
+    background-color:darkslateblue;
+    border-radius:40px;
+    color:white;
+    width:70%;
+    padding: 10px;
+    margin-top: 100px;
+    
+}
+.main a{
+    color: aliceblue;
+}
+h1{
+    font-size: 380%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    font-size: 150%;
+
+}
+input{
+    padding: 20px;
+    border-radius:5px;
+    width: 400px;
+}
+.main button{
+    padding: 15px;
+    border-radius: 5px;
+}
+.logo img{
+
+    width:400px;
+    margin-right: 100px;
+    margin-top: 30px;
+    
+}
+footer{
+
+    margin-top:80px;
+    margin-left: 40px;
+}
+footer img{
+    margin-bottom: 50px;
+}
